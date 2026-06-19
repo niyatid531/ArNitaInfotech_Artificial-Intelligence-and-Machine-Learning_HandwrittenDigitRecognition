@@ -3,7 +3,7 @@
 Deep Learning CNN that recognises handwritten digits (0-9).
 
 ## Dataset
-MNIST — 70,000 images (60K train + 10K test), auto-downloaded
+MNIST: 70,000 images (60K train + 10K test), auto-downloaded
 
 ## Model
 CNN with 2 convolutional blocks | PyTorch
